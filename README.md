@@ -14,9 +14,4 @@ then
 
 
 # How to code in om
-*1. Display Output*
-**output:** 
-* **contents** * 
-**:output**
-***optional->* comments*** 
-***any more output blocks***
+use testing.om
