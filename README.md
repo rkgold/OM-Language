@@ -16,7 +16,7 @@ then
 # How to code in om
 *1. Display Output*
 **output:** 
-***contents***
+* **contents** * 
 **:output**
 ***optional->* comments*** 
 ***any more output blocks***
