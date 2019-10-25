@@ -11,3 +11,13 @@ then
 
 ###### convert to python script
 *om.py **filename**.om -py **outputPythonFilename**.py*
+
+
+# How to code in om
+*1. Display Output*
+**output:
+ *contents*
+:output
+*optional->* comments
+*any more output blocks*
+**
