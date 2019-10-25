@@ -1,0 +1,13 @@
+output:
+Hello,
+i am rishit
+var: a 12
+var: b hello
+ab
+input: a Enter Value:
+a
+:output
+
+output:
+"output 2"
+:output
